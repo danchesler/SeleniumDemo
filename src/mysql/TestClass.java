@@ -6,6 +6,8 @@ public class TestClass {
 		printThis();
 		
 		give5();
+		
+		test123();
 
 	}
 	
@@ -19,4 +21,8 @@ public class TestClass {
 		System.out.println("5");
 	}
 
+	public static void test123()
+	{
+		System.out.println("123");
+	}
 }
