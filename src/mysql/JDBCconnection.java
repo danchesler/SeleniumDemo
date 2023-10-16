@@ -33,6 +33,10 @@ public class JDBCconnection {
 			driver.findElement(By.id("userEmail")).sendKeys(rs.getString("name"));
 			driver.findElement(By.id("userPassword")).sendKeys(rs.getString("location"));
 		}
+		
+		System.out.println("pushed by gitspace");
+		System.out.println("pull by gitstuff");
+		System.out.println("test line 3");
 	}
 
 }
