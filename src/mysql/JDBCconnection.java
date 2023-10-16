@@ -37,6 +37,11 @@ public class JDBCconnection {
 		System.out.println("pushed by gitspace");
 		System.out.println("pull by gitstuff");
 		System.out.println("test line 3");
+		
+		//added by gitstuff
+		System.out.println("more lines1");
+		System.out.println("test line 3");
+		System.out.println("test line 3");
 	}
 
 }
