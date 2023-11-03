@@ -25,4 +25,10 @@ public class TestClass {
 	{
 		System.out.println("123");
 	}
+	
+	
+	public void asdfgf()
+	{
+		System.out.println("sdfsd");
+	}
 }
