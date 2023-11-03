@@ -10,8 +10,6 @@ public class demo {
 		System.out.println("sgdg");
 		
 		System.out.println("changes");
-
-		System.out.println("develop2 change");
 	}
 
 }
